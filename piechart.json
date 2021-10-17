@@ -3,7 +3,12 @@
   "description": "A simple pie chart with labels.",
   "height": 400,
   "width": 610,
-  "title": "Retail Trade and Mining industry Share in total Revenue of Australia for year 2020",
+  "title": {
+    "text": "Retail Trade and Mining industry Share in total Revenue of Australia for year 2020",
+    "anchor": "middle",
+    "fontSize": 15
+  },
+  
   "data": {
     "url": "https://raw.githubusercontent.com/mmus0011/fit3179/main/piechart.csv"
   },

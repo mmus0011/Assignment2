@@ -2,7 +2,12 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 550,
   "height": 300,
-  "title": "Revenue by Retail Trade industry in Australia for last 10 years ( in millions )",
+  "title": {
+    "text": "Revenue by Retail Trade industry in Australia for last 10 years ( in millions )",
+    "anchor": "middle",
+    "fontSize": 15
+  },
+  
   "projection": {"type": "equirectangular"},
   "layer": [
     {

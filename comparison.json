@@ -2,7 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 600,
   "height": 380,
-  "title": "Trend in both industries for last 8 years ( in millions )",
+  "title": {
+    "text": "Trend in both industries for last 8 years ( in millions )",
+    "anchor": "middle",
+    "fontSize": 15
+  },
   "projection": {"type": "equirectangular"},
   "layer": [
 

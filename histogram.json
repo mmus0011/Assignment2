@@ -7,7 +7,7 @@
   "title": {
      "text": "Industry Comparison by states for last 8 years",
      "anchor": "middle",
-     "fontSize": 13
+     "fontSize": 15
    },
  
   "data": { "url": "https://raw.githubusercontent.com/mmus0011/fit3179/main/Hist.csv"},
